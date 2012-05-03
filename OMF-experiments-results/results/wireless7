@@ -1,0 +1,7 @@
+--
+-- Database Dump
+-- Experiment ID: default_slice-2012-05-02t21.49.18+02.00
+--
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+COMMIT;
